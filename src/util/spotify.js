@@ -1,5 +1,5 @@
 
-const clientId = "efb90854934645e3b220820d73e9b5aa";
+const clientId = "472c989ff0e348c985fce3d44146a2bf";
 let accessToken = "";
 const redirectURI = "https://superb-toffee-723c8a.netlify.app/";
 
